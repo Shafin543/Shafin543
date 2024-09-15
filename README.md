@@ -10,15 +10,6 @@
 - **Independent University, Bangladesh (2020-2024)**
   - Bachelor of Science in Computer Science and Engineering (CSE)
   - Minor in Management Information Systems (MIS)
-### 🔑 Keywords
-- 👨‍💻 Tech Enthusiast
-- 🧠 Curious Mind
-- 🔍 Problem Solver
-- 🚀 Fast Learner
-- 💡 Innovative Thinker
-- 🎯 Goal-Oriented
-- 🤝 Team Player
-- 📚 Lifelong Learner
 
 - 👀 I’m a Computer Science and Engineering student at Independent University, Bangladesh, with a minor in Management Information Systems.
 - 🌱 I’m currently expanding my knowledge in software development, web technologies, and cloud computing.
@@ -29,6 +20,16 @@
 - ⚡ Fun fact: When I’m not coding, I enjoy exploring new tech trends and engaging with the developer community.
  ### 💬 Let's Connect!
 - Feel free to reach out if you'd like to collaborate or chat about software development, technology trends, or internship opportunities!
+
+### 🔑 Keywords
+- 👨‍💻 Tech Enthusiast
+- 🧠 Curious Mind
+- 🔍 Problem Solver
+- 🚀 Fast Learner
+- 💡 Innovative Thinker
+- 🎯 Goal-Oriented
+- 🤝 Team Player
+- 📚 Lifelong Learner
   
 <!---
 Shafin543/Shafin543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
