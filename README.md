@@ -10,6 +10,15 @@
 - **Independent University, Bangladesh (2020-2024)**
   - Bachelor of Science in Computer Science and Engineering (CSE)
   - Minor in Management Information Systems (MIS)
+### 🔑 Keywords
+- 👨‍💻 Tech Enthusiast
+- 🧠 Curious Mind
+- 🔍 Problem Solver
+- 🚀 Fast Learner
+- 💡 Innovative Thinker
+- 🎯 Goal-Oriented
+- 🤝 Team Player
+- 📚 Lifelong Learner
 
 - 👀 I’m a Computer Science and Engineering student at Independent University, Bangladesh, with a minor in Management Information Systems.
 - 🌱 I’m currently expanding my knowledge in software development, web technologies, and cloud computing.
