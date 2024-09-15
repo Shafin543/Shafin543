@@ -6,7 +6,6 @@
 - 📫 How to reach me: 
   - Gmail: [rawnokshafin2000.ars@gmail.com](mailto:rawnokshafin2000.ars@gmail.com)
   - LinkedIn: [Al Rawnak Shafin](https://www.linkedin.com/in/alrawnakshafin/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I’m not coding, I enjoy exploring new tech trends and engaging with the developer community.
 <!---
 Shafin543/Shafin543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
