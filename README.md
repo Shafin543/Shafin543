@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on open-source projects, particularly in software development, web applications, and data-driven solutions.
 - 📫 How to reach me: 
   - Gmail: [shafin543@gmail.com](mailto:rawnokshafin2000.ars@gmail.com)
-  - LinkedIn: [linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/alrawnakshafin/)
+  - LinkedIn: [Al Rawnak Shafin](https://www.linkedin.com/in/alrawnakshafin/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I’m not coding, I enjoy exploring new tech trends and engaging with the developer community.
 <!---
