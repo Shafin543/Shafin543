@@ -18,7 +18,7 @@
   - Gmail: [rawnokshafin2000.ars@gmail.com](mailto:rawnokshafin2000.ars@gmail.com)
   - LinkedIn: [Al Rawnak Shafin](https://www.linkedin.com/in/alrawnakshafin/)
 - ⚡ Fun fact: When I’m not coding, I enjoy exploring new tech trends and engaging with the developer community.
-- ### 💬 Let's Connect!
+ ### 💬 Let's Connect!
 - Feel free to reach out if you'd like to collaborate or chat about software development, technology trends, or internship opportunities!
   
 <!---
