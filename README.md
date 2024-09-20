@@ -3,9 +3,10 @@
 ### 🔧 Technologies & Tools
 - 💻 Programming: Python, Java, C++, JavaScript
 - 🌐 Web Development: HTML, CSS, JavaScript, React
-- ☁️ Cloud & DevOps: Git, Docker, AWS (basic knowledge)
-- 🛠️ Databases: MySQL, MongoDB
-- 🎯 Tools: GitHub, Visual Studio Code, Postman
+- ☁️ Cloud & DevOps: Git (basic knowledge)
+- 🛠️ Databases: MySQL
+- 🎯 Tools: GitHub, Visual Studio Code      
+
 ### 🎓 Education
 - **Independent University, Bangladesh (2020-2024)**
   - Bachelor of Science in Computer Science and Engineering (CSE)
