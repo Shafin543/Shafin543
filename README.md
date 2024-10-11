@@ -28,7 +28,7 @@
 - ## 📫 How to reach me
 
   - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rawnokshafin2000.ars@gmail.com)
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/al-rawnak-shafin/](https://www.linkedin.com/in/alrawnakshafin/))
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alrawnakshafin/)
 
 - ⚡ Fun fact: When I’m not coding, I enjoy exploring new tech trends and engaging with the developer community.
  ### 💬 Let's Connect!
