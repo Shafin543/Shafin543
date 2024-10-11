@@ -16,7 +16,8 @@
 
 - ![Company](https://img.shields.io/badge/Company-Daraz%20Bangladesh%20(Alibaba%20Group)-blue)  
 - ![Designation](https://img.shields.io/badge/Designation-Intern-green)  
-- ![Department](https://img.shields.io/badge/Department-IT-orange)  
+- ![Department](https://img.shields.io/badge/Department-IT-orange)
+- ![Dates](https://img.shields.io/badge/Dates-7.10.2024_to_3.1.2025-ash)
 
     
 ### 🌟 About Me
