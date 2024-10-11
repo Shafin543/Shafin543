@@ -11,6 +11,13 @@
 - **Independent University, Bangladesh (2020-2024)**
   - Bachelor of Science in Computer Science and Engineering (CSE)
   - Minor in Management Information Systems (MIS)
+
+### 🧑‍💼 Experience
+
+- ![Company](https://img.shields.io/badge/Company-Daraz%20Bangladesh%20(Alibaba%20Group)-blue)  
+- ![Designation](https://img.shields.io/badge/Designation-Intern-green)  
+- ![Department](https://img.shields.io/badge/Department-IT-orange)  
+
     
 ### 🌟 About Me
 - 👀 I’m a Computer Science and Engineering student at Independent University, Bangladesh.
