@@ -22,7 +22,7 @@
     
  ## 🌟 About Me
 - 👀 I’m a Computer Science and Engineering student at Independent University, Bangladesh.
-- 🌱 I’m currently expanding my knowledge in software development, web technologies, and cloud computing.
+- 🌱 I’m currently expanding my knowledge in software development, web technologies, CyberSecurity, AI/ML, Blockchain, Information Technology, Network analysis/security and cloud computing.
 - 💞️ I’m looking to collaborate on open-source projects, particularly in software development, web applications, and data-driven solutions.
 - ⚡ Fun fact: When I’m not coding, I enjoy exploring new tech trends and engaging with the developer community.
   
